@@ -1,3 +1,3 @@
 # friends-quiz
 
-Simple CLI javascript app
+Simple CLI javascript quiz app about friends show
